@@ -15,8 +15,8 @@
          "context_set": ""
         },
         {"tag": "name",
-         "patterns": ["what is your name?","what is your owner name?"],
-         "responses": ["Bot", "I am the owner of myself"],
+         "patterns": ["what is your name?","what is your fathers name?"],
+         "responses": ["Bot"],
          "context_set": ""
         }
    ]
